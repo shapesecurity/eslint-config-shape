@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-shape",
+  "version": "0.0.0",
+  "description": "shared eslint config for OSS Shape projects",
+  "keywords": ["eslint"],
+  "author": "Shape Security",
+  "scripts": {
+    "lint": "eslint --config index.js index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
